@@ -1,0 +1,9 @@
+{
+	"name": "sboxde073dev",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a2305414-111c-46a1-9196-6031655c251a",
+		"tenantId": "db1e96a8-a3da-442a-930b-235cac24cd5c"
+	}
+}
